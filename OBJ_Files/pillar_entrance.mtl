@@ -1,0 +1,10 @@
+newmtl Dungeon_Mat_01
+Kd 1 1 1
+map_Kd null
+illum 2
+
+newmtl Dungeon_Mat_02
+Kd 1 1 1
+map_Kd null
+illum 2
+

@@ -1,0 +1,47 @@
+newmtl Fireplace_KitchenBench_MAT
+Kd 1 1 1
+map_Kd null
+map_Bump null
+illum 2
+
+newmtl Lights_towel_MAT
+Kd 1 1 1
+map_Kd null
+map_Bump null
+illum 2
+
+newmtl Doors_TVStand_MAT
+Kd 1 1 1
+map_Kd null
+illum 2
+
+newmtl Plastic_Steel_Handle_MAT
+Kd 1 1 1
+map_Kd null
+map_Bump null
+illum 2
+
+newmtl Bathroom_Oven_MAT
+Kd 1 1 1
+map_Kd null
+map_Bump null
+illum 2
+
+newmtl Rug_Curtains_MAT
+Kd 1 1 1
+map_Kd null
+map_Bump null
+illum 2
+
+newmtl BuildingA_MAT
+Kd 1 1 1
+map_Kd null
+map_Bump null
+illum 2
+
+newmtl BuildingB_MAT
+Kd 1 1 1
+map_Kd null
+map_Bump null
+illum 2
+

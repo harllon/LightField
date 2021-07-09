@@ -1,0 +1,10 @@
+newmtl tree2_leaf
+Kd 1 1 1
+map_Kd null
+illum 2
+
+newmtl tree2_bark
+Kd 1 1 1
+map_Kd null
+illum 2
+
