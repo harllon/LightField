@@ -1,0 +1,10 @@
+/Editor/Node_Editor/*.asset
+/Docs/site
+
+/*.meta
+/Examples/*.meta
+/Node_Editor_Framework/*.meta
+/Node_Editor_Framework/Runtime/*.meta
+/Node_Editor_Framework/Runtime/Framework/*.meta
+/Node_Editor_Framework/Runtime/Resources/*.meta
+/Node_Editor_Framework/Standard/*.meta
