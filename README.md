@@ -1,2 +1,7 @@
-This repository was created to make the log of my research. The objective of this research is to build a lightfield video dataset that can explore some features of this kind of images and make images that can stress compress algorithms.
+This repository was created to make the log of my research. The objective of this research is to build a lightfield video dataset that can explore some features of this kind of images and make images that can stress compression algorithms.
 The images of this dataset are stored in: https://drive.google.com/drive/folders/1pu6tKL4fNzvdCfkh_0K4HLOyjKKmzvTe?usp=sharing
+
+To create these images I used Blender 2.79 and Unity 2019.4.14f1. I took free assets from the Asset Store of Unity and I used the FBX and OBJ exporter, both are extension plugin available on Unity. This way, I could export some objects that I could use in Blender. After that, I put together this object in Blender, creating a scene. With my scene created I apply texture on the objects using the node edit function of Blender. The textures used are available for free in the internet and I put some of them inside the folder of some Scenes on the link of the dataset.
+The images were created using the Blender add-on which was created by the authors of the paper:  "A Dataset and Evaluation Methodology for Depth Estimation on 4D Light Fields". The paper and the add-on besides other useful extensions to deal with lightfield images are available in: https://lightfield-analysis.uni-konstanz.de/
+
+Finally, I published a paper in Portuguese about my dataset on SIBGRAPI 2020 - 33rd  Conference on Graphics, Patterns and Images and the paper is available in: https://sol.sbc.org.br/index.php/sibgrapi_estendido/article/view/13000
